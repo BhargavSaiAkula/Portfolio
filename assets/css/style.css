@@ -935,7 +935,10 @@ header .navbar ul li a:hover {
     left: 0;
   }
 }
-
+.program img{
+  height: 50%;
+  width: 50%;
+}
 
 @media screen and (max-width: 750px) {
   .certification .program {
@@ -965,8 +968,13 @@ header .navbar ul li a:hover {
   .certification .description ul {
     font-size: 1.2em;
   }
-}
 
+.program img{
+ height: 100%;
+ width: 100%;
+ border: #00d9ff;
+}
+}
 
  /* .experience .timeline {
   position: relative;
