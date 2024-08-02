@@ -937,7 +937,7 @@ header .navbar ul li a:hover {
 }
 
 
-@media screen and (max-width: 750px) {
+@media screen and (max-width: 600px) {
   .certification .program {
     flex-direction: column;
     padding: 20px;
