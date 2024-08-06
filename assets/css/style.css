@@ -972,7 +972,8 @@ header .navbar ul li a:hover {
 .program img{
  height: 100%;
  width: 100%;
- border: #00d9ff;
+ align-items: center;
+ justify-content: center;
 }
 }
 
